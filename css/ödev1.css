@@ -1,18 +1,16 @@
-ul#tabs li {
-            float: left;
-            position: relative;
-            width: 250px;
-            text-align: center;
+body {
+        background-color: rgb(232, 236, 235);
+        text-align: center;
+    }
 
-}
+.AnasayfaMüzikAletleriListesi {
+    width: 50px;
+    height: 80px;        
+    text-align: center;
+    display: inline-block;
+  }
 
-ul li a {
-            display: block;
-            width: 150px;
-            height: 40px;
-            line-height: 40px;
-            background-color: blue;
-            text-align: center;
-            color: beige;
-            text-decoration: none;
-}
+  h1 {color: rgb(203, 24, 24);}
+  h2 {color: blueviolet;}
+
+ 
