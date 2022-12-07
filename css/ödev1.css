@@ -6,12 +6,13 @@
 .body-about-us {
     background-color: rgb(255, 255, 255);
     margin: 0%;
+    padding: 20px;
 }
 .body-products {
     background-color: rgb(255, 255, 255);
     text-align: center;
     margin: 0%;
-    padding: 20px;
+    
 }
 
 .AnasayfaMüzikAletleriListesi {
