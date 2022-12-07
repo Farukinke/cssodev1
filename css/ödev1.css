@@ -1,16 +1,35 @@
-body {
-        background-color: rgb(232, 236, 235);
+.body-index {
+        background-color: rgb(255, 255, 255);
         text-align: center;
+        margin: 0%;
     }
+.body-about-us {
+    background-color: rgb(255, 255, 255);
+    margin: 0%;
+}
+.body-products {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0%;
+    padding: 20px;
+}
 
 .AnasayfaMüzikAletleriListesi {
     width: 50px;
     height: 80px;        
     text-align: center;
     display: inline-block;
+
   }
 
   h1 {color: rgb(203, 24, 24);}
   h2 {color: blueviolet;}
+  h3 {color: rgb(226, 172, 35);}
+
+  nav {
+    color: rgb(24, 141, 63);
+  }
+
+  .div-about-us {text-align: center;}
 
  
